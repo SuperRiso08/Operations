@@ -17,7 +17,7 @@ public class Application {
             case "div" -> System.out.println(a/b);
             case "mul" -> System.out.println(a*b);
         }
-    //a riso é gay
+
 
     }
 }
