@@ -8,9 +8,7 @@ public class Application {
         int b = scanner.nextInt();
 
         System.out.println(a);
-        System.out.println('\n');
         System.out.println(b);
-        System.out.println('\n');
         System.out.println("Result: ");
         System.out.println(a + b);
     }
